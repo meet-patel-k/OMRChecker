@@ -124,7 +124,7 @@ git clone https://github.com/Udayraj123/OMRChecker --depth=1
 #### Install pip requirements 
 
 ```bash
-# cd OMRChecker/
+cd OMRChecker/
 python3 -m pip install --user -r requirements.txt
 ```
 **Friendly Note:** If you face a distutils error in pip, use `--ignore-installed` flag in above command.
